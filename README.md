@@ -1,2 +1,2 @@
 # is-computer-on
-Is you computer turned on? Find out with this NPM package
+Is your computer turned on? Find it out with this NPM package.
