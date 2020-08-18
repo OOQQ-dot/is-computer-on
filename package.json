@@ -1,0 +1,25 @@
+{
+  "name": "is-computer-on",
+  "version": "1.0.0",
+  "description": "It's the computer turned on? You never be sure!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/voodoocoltd/is-computer-on.git"
+  },
+  "keywords": [
+    "is",
+    "computer",
+    "on"
+  ],
+  "author": "OOQQ <ooqq@yahoo.com> (ooqq.me)",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=1.0.0"
+  },
+  "engineStrict": false
+}
