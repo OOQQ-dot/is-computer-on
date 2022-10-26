@@ -1,5 +1,5 @@
 /*!
- * is-computer-on <https://github.com/voodoocoltd/is-computer-on>
+ * is-computer-on <https://github.com/OOQQ/is-computer-on>
  *
  * Copyright (c) 2020, OOQQ.
  * Released under the MIT License.
