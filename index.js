@@ -1,7 +1,7 @@
 /*!
- * is-computer-on <https://github.com/OOQQ/is-computer-on>
+ * is-computer-on <https://github.com/necronomimicon/is-computer-on>
  *
- * Copyright (c) 2020, OOQQ.
+ * Copyright (c) ネクローノーミミコン.
  * Released under the MIT License.
  */
 
