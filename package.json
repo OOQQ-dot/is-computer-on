@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/OOQQ/is-computer-on.git"
+    "url": "https://github.com/necronomimicon/is-computer-on"
   },
   "keywords": [
     "is",
     "computer",
     "on"
   ],
-  "author": "OOQQ <ooqq@yahoo.com> (ooqq.me)",
+  "author": "OOQQ <necronomimicon@gmail.com> (necronomimi.com)",
   "license": "MIT",
   "private": false,
   "engines": {
